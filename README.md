@@ -1,21 +1,11 @@
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Manish](https://www.linkedin.com/in/vrukshali-torawane) !!
+#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Manish](https://www.linkedin.com/in/manishkhadka) !!
 
-<a href="https://www.linkedin.com/in/vrukshali-torawane">
+<a href="https://www.linkedin.com/in/manishkhadka">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
-<a href="mailto:vrukshalitorawane@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
-</a>
-<a href="https://twitter.com/Vrukshali26">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
-</a>
-<a href="https://vrukshalitorawane.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
-</a>
 <br> <br>
 
-🎓 I’m currently a junior pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Open-Source💙 <br />
-✨ I'm passionate about Docker🐋, Kubernetes🎡, and learning new things!
+✨ I'm passionate about DevOps, SRE, DevSecOps, Docker 🐋, Kubernetes ☸️ , and learning new things!
 
 ## 🚀 Technologies 
 
