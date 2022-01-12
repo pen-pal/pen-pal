@@ -19,7 +19,7 @@
 ### Cloud ☁
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/google%20cloud-0089D6?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/oracle%20cloud-0089D6?style=for-the-badge&logo=oracle-cloud&logoColor=white" />
 
-## Stats 📈
+## 📈 Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pen-pal&show_icons=true&theme=highcontrast&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=pen-pal&theme=merko&hide_border=true&date_format=%5BY%20%5DM%20j&sideLabels=DDBECA&background=000000&border=000000&stroke=000000" />
