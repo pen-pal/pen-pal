@@ -5,7 +5,6 @@
  </a> 
 <br> <br>
 
-✨ I'm passionate about DevOps, SRE, DevSecOps, Docker 🐋, Kubernetes ☸️ , and learning new things!
 
 ## 📈 Stats
 <p align="center">
