@@ -10,5 +10,7 @@ I'm Manish — a developer who enjoys building things and breaking them to learn
 </a>
 
 <br><br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pen-pal&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://streak-stats.demolab.com/?user=pen-pal&theme=dark&hide_border=false)<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <img alt="pen-pal GitHub profile card" src="light_mode.svg">
+</picture>
