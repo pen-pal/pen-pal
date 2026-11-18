@@ -1,5 +1,5 @@
 
-[![](https://komarev.com/ghpvc/?username=pen-pal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=pen-pal&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 # Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> !!
 
@@ -11,6 +11,6 @@ I'm Manish — a DevOps who enjoys building things and breaking them to learn ho
 
 <br><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <img alt="pen-pal GitHub profile card" src="light_mode.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pen-pal/pen-pal/main/dark_mode.svg">
+  <img alt="pen-pal GitHub profile card" src="https://raw.githubusercontent.com/pen-pal/pen-pal/main/light_mode.svg">
 </picture>

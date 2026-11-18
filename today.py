@@ -177,8 +177,9 @@ def svg(info, art, t):
     h = max(len(info) * lh, len(art) * 12) + 40
     tspan = lambda text, s: (f'<tspan class="{s}">' if s and not s.startswith("#") else
                              f'<tspan fill="{s}">' if s else "<tspan>") + escape(text) + "</tspan>"
-    body = "".join(f'<tspan x="{info_x}" y="{30 + i * lh}"></tspan>' + "".join(tspan(*s) for s in line)
-                   for i, line in enumerate(info))
+    # browsers ignore x/y on an empty tspan, so the positioned tspan must wrap the line's text
+    body = "".join(f'<tspan x="{info_x}" y="{30 + i * lh}">' + "".join(tspan(*s) for s in line) + "</tspan>"
+                   for i, line in enumerate(info) if line)
     art_y = 20 + (h - 40 - len(art) * 12) // 2  # vertically centred
     art_body = "".join(f'<tspan x="{art_x}" y="{art_y + i * 12}">{escape(line)}</tspan>' for i, line in enumerate(art))
     return f"""<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="{w}" height="{h}" font-family="Consolas,Menlo,monospace" font-size="16px">
