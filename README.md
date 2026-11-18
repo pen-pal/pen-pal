@@ -3,7 +3,7 @@
 
 # Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> !!
 
-I'm Manish — a developer who enjoys building things and breaking them to learn how they work.
+I'm Manish — a DevOps who enjoys building things and breaking them to learn how they work.
 
 <a href="https://www.linkedin.com/in/manishkhadka">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
