@@ -14,8 +14,17 @@ from html import escape
 USER = os.environ.get("GH_USER", "pen-pal")
 TOKEN = os.environ["GH_TOKEN"]
 TITLE = "manish@pen-pal"
-WIDTH = 58  # info column, in characters
-ABOUT = [("Location", "Nepal"), ("Focus", "Cloud · DevOps · Security")]  # edit me
+WIDTH = 62  # info column, in characters
+ABOUT = [  # edit me
+    ("Role", "Senior DevOps / SRE / Platform Engineer"),
+    ("Focus", "Cloud · DevOps · Security · Systems · Architecture"),
+    ("Cloud", "AWS · GCP · Azure · DigitalOcean · OCI"),
+    ("Platform", "Kubernetes · Helm · ArgoCD · Istio · Cilium"),
+    ("IaC", "Terraform · OpenTofu · Ansible · Packer"),
+    ("Security", "SOC 2 · ISO 27001 · Zero Trust · Vault"),
+    ("Observability", "Prometheus · Grafana · Loki · Tempo"),
+    ("Certified", "AWS DevOps Engineer – Professional"),
+]
 
 THEMES = {
     "dark": dict(bg="#161b22", fg="#c9d1d9", key="#ffa657", value="#a5d6ff", add="#3fb950", dele="#f85149", cc="#616e7f"),
